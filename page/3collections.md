@@ -47,42 +47,26 @@ type: page
 
 ## 编程语言
 
-### JavaScript
+### Python
 
-* [JavaScript 标准参考教程（alpha） -阮一峰](http://javascript.ruanyifeng.com/)
+* [Python Tutorials](https://docs.python.org/3.7/tutorial/index.html)
 
-* [JavaScript Promise迷你书 -azu](http://liubin.org/promises-book/)
+* [Anaconda Archive](https://repo.anaconda.com/archive/)
 
-* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+* [Anaconda User Guide](http://docs.anaconda.com/anaconda/user-guide/getting-started/)
 
-* [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
+* [Anaconda Cloud](https://anaconda.org/)
 
-    前端发展很快，现代浏览器原生 API 已经足够好用。我们并不需要为了操作 DOM、Event 等再学习一下 jQuery 的 API。同时由于 React、Angular、Vue 等框架的流行，直接操作 DOM 不再是好的模式，jQuery 使用场景大大减少。本项目总结了大部分 jQuery API 替代的方法，暂时只支持 IE10+ 以上浏览器。
 
-- [YOU MIGHT NOT NEED JQUERY PLUGINS](http://youmightnotneedjqueryplugins.com/)
 
-* [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+### R Language
 
-* [JavaScript 设计模式 系列 AlloyTeam](http://www.alloyteam.com/2012/10/common-javascript-design-patterns/)
+- [R](https://www.r-project.org/)
+* [R Tutorials](https://www.statmethods.net/index.html)
 
-### ES2015
+- [R Packages](https://cran.r-project.org/web/packages/)
 
-- [https://tc39.github.io/ecma262/](https://tc39.github.io/ecma262/)
-* [http://www.ecma-international.org/ecma-262/6.0/](http://www.ecma-international.org/ecma-262/6.0/)
-
-    ES2015规范
-
-- [http://es6katas.org/](http://es6katas.org/)
-
-    Learn ES6 by doing it. Fix failing tests. Keep all learnings.
-
-* [30分钟掌握ES6/ES2015核心内容（上）](http://segmentfault.com/a/1190000004365693)
-
-* [30分钟掌握ES6/ES2015核心内容（下）](http://segmentfault.com/a/1190000004368132)
-
-* [《ECMAScript 6入门》 -阮一峰](https://github.com/ruanyf/es6tutorial)
-
-* [EcmaScript6 全规范（含node） -ouvens](https://github.com/ouvens/es6-code-style-guide)
+       
 
 ### NodeJS
 
