@@ -32,6 +32,4 @@ type: page
 
 [云南大学水文气候组](http://langyang.weebly.com/) \| [云南大学](http://www.ynu.edu.cn/) \| [密歇根州立大学水文气候组](http://drought.geo.msu.edu/) \| [云南大学资源环境与地球科学学院](http://www.srees.ynu.edu.cn/) \|  [云南大学国际河流与生态安全研究院](http://www.ires.ynu.edu.cn/) \|  [何毓琦的个人博客](http://blog.sciencenet.cn/home.php?mod=space&uid=1565&do=blog&id=11667/) 
 
-## Comments
 
-{% include comments.html %}
