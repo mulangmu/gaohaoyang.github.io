@@ -122,6 +122,9 @@ Syntax Theme: Atom Dark or One Dark
 
     马斯特，87年生人，爱溜冰的码农。技术： Javascript、Python、Mac、iOS
 
+- [地理圈的码农](https://xg1990.com/blog/)
+
+- [Guangchuang YU  R programming](https://guangchuangyu.github.io)
 
 
 ## 交互设计相关
